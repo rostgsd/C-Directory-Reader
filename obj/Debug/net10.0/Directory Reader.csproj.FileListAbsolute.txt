@@ -1,0 +1,26 @@
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Directory Reader.exe
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Directory Reader.deps.json
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Directory Reader.runtimeconfig.json
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Directory Reader.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Directory Reader.pdb
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.AssemblyInfoInputs.cache
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.AssemblyInfo.cs
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.csproj.CoreCompileInputs.cache
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\refint\Directory Reader.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.pdb
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.genruntimeconfig.cache
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\ref\Directory Reader.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Directory Reader.csproj.AssemblyReference.cache
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\AppSettings.json
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ostia\RiderProjects\Small Projects\Directory Reader\obj\Debug\net10.0\Director.74638108.Up2Date
